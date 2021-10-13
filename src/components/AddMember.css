@@ -1,0 +1,22 @@
+#age {
+width: 50px;
+}
+
+.form {
+    font-size: larger;
+}
+
+select {
+    margin-left: 10px;
+}
+button {
+font-size: larger;
+margin:10px;
+border:  1px solid black;
+background-color: white;
+}
+span {
+    color: rgb(145, 79, 41);
+    font-size: 15px;
+    margin-left: 10px;;
+}
