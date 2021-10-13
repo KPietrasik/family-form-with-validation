@@ -17,7 +17,7 @@ class App extends React.Component {
                     name:"Kamila",
                     lastName:"Pietrasik",
                     age: 37,
-                    sex:true,
+                    sex:"women",
                     value:"Matka"
                 },
             ],
